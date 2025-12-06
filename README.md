@@ -11,13 +11,13 @@ I study part-time in the evenings and I’m currently looking for a **6–9 mont
 - Java, JavaScript, TypeScript, Python  
 
 **Backend & Frameworks:**  
-- Spring Boot, Node.js, Express  
+- Spring Boot, Node.js, Express, Stripe API, REST APIs, JSON
 
 **Databases:**  
-- MySQL, SQLite, Sequelize ORM  
+- MySQL, SQLite, Sequelize ORM, MongoDB (beginner)
 
 **Frontend:**  
-- HTML, CSS, EJS, basic React  
+- HTML, CSS, EJS, Vue.js, Bootrstrap, JQuery basic React  
 
 **Other Tools:**  
 - Git/GitHub, Postman, IntelliJ, VSCode, Docker (beginner)
